@@ -1,2 +1,1 @@
-# CBFriendsCost
-CB Project
+# Cash Flow Minimizer
